@@ -1,3 +1,6 @@
+Traffic Lights Embedded System - multiple modes - configurable via button 
+inputs/UART
+
 ################################################################################
 /*									      */
 /*		rgup198 				sdup751		      */
